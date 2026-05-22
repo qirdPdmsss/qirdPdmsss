@@ -1,144 +1,99 @@
-# qirdPdms
+# Luca Pawelz
 
-## Minecraft Java Developer / Server Systems Engineer
+Minecraft Developer with 5 years of experience in server systems, multiplayer infrastructure, and custom gameplay concepts.
 
-Passionate developer with 5+ years of experience in the Minecraft ecosystem, focused on multiplayer systems, backend infrastructure, and scalable server architecture.
-
-I enjoy building technical systems that improve gameplay, performance, and maintainability — from proxy networks to custom game concepts.
+Focused on building scalable Minecraft networks, backend systems, and technical solutions for multiplayer environments.
 
 ---
 
 ## About Me
 
-I have been working in the Minecraft server ecosystem for over 5 years, gaining hands-on experience with server infrastructure, backend integrations, and gameplay system design.
+I have been working in the Minecraft ecosystem for the past 5 years, with practical experience in network architecture, server infrastructure, and custom gameplay systems.
 
-My focus includes:
+My focus is on designing stable and scalable server environments, developing gameplay concepts, and solving technical challenges in multiplayer systems.
 
-- Minecraft network architecture
-- custom backend systems
-- multiplayer gameplay concepts
-- infrastructure management
-- performance optimization
-- database integrations
-
-I enjoy solving complex technical challenges and building systems that are stable, scalable, and actually useful.
+I enjoy working on systems that directly impact player experience — whether through backend architecture, game mechanics, or performance improvements.
 
 ---
 
-## Technical Skills
+## Minecraft Experience
 
-### Languages
-- Java
-- SQL
-- YAML / JSON
-- Bash
+### Network Infrastructure
+Experience building and maintaining Minecraft server environments using:
 
-### Minecraft Development
-- Paper API
-- Spigot API
 - Velocity
-- BungeeCord
+- Paper / Spigot
 - CloudNet
 - LuckPerms
 - PlaceholderAPI
 - WorldEdit / WorldGuard
 
-### Backend / Infrastructure
-- MySQL
-- Linux Server Administration
-- Plesk
-- DNS Management
-- Mail Server Configuration
-- SSL / Let's Encrypt
-- Firewall Configuration
-- Reverse Proxies
+Practical work includes:
 
-### Tools
-- Git
-- GitHub
-- IntelliJ IDEA
-- Maven
-- Gradle
-
----
-
-## Featured Projects
-
-# Custom Minecraft Network Infrastructure
-
-Designed and managed a scalable Minecraft multiplayer network using modern proxy and service orchestration systems.
-
-### Stack
-- Velocity Proxy
-- CloudNet
-- Paper
-- LuckPerms
-- MySQL
-
-### Features
-- dynamic service orchestration
-- proxy-based player routing
-- rank synchronization
-- custom MOTD systems
-- network-wide messaging
-- player data handling
-- automated service deployment
-- permission management
-
----
-
-# Custom Bedwars System (Concept / Development)
-
-Designed a custom Bedwars architecture focused on modularity, scalability, and modern gameplay mechanics.
-
-### Planned / Implemented Features
-- map rotation
-- matchmaking / queue system
-- generator system
-- upgrade shop
-- trap mechanics
-- team balancing
-- sudden death logic
-- custom event systems
-- custom item mechanics
-
----
-
-# Infrastructure Engineering
-
-Experience managing production server infrastructure including hosting, networking, and deployment.
-
-### Experience Includes
-- Linux VPS management
-- Plesk administration
-- DNS troubleshooting
-- SSL certificate automation
-- mail server troubleshooting
-- IP reputation / SMTP fixes
-- firewall hardening
-- domain management
-
----
-
-## What I Enjoy Building
-
-I enjoy working on systems like:
-
-- multiplayer backend architecture
-- custom gameplay systems
-- matchmaking systems
-- rank / economy systems
-- network communication systems
-- infrastructure automation
+- proxy network setup
+- server orchestration
+- player routing
+- rank and permission systems
+- global messaging systems
+- MOTD / server presentation
+- service deployment
 - performance optimization
 
 ---
 
-## Why Minecraft Development
+### Custom Gameplay Systems
 
-Minecraft development combines software engineering, infrastructure, gameplay logic, and system design in a way that few other environments do.
+Experience designing and implementing Minecraft gameplay systems such as:
 
-Building systems that thousands of players interact with in real time is exactly the type of challenge I enjoy.
+- Bedwars concepts
+- matchmaking / queue systems
+- team balancing
+- upgrade systems
+- generator mechanics
+- custom event systems
+- trap mechanics
+- scoreboard integrations
+- lobby systems
+- player progression concepts
+
+Focus on modular, maintainable systems with scalable multiplayer architecture.
+
+---
+
+## Backend & Technical Infrastructure
+
+Technical experience related to Minecraft hosting and deployment:
+
+- Java
+- SQL / MySQL
+- Linux server administration
+- Git / GitHub
+- Maven / Gradle
+- Plesk
+- DNS management
+- SSL / Let's Encrypt
+- firewall configuration
+- mail server troubleshooting
+
+---
+
+## Areas of Interest
+
+Particularly interested in:
+
+- Minecraft backend systems
+- custom minigame development
+- multiplayer architecture
+- network communication systems
+- player data systems
+- performance optimization
+- scalable server infrastructure
+
+---
+
+## Current Focus
+
+Currently focused on expanding practical development experience in Java-based Minecraft systems, with a strong interest in building clean, reliable multiplayer features and backend architecture.
 
 ---
 
