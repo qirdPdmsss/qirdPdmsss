@@ -1,4 +1,4 @@
-# Luca Pawelz
+# qirdPdms
 
 Minecraft Developer with 5 years of experience in server systems, multiplayer infrastructure, and custom gameplay concepts.
 
@@ -8,9 +8,7 @@ Focused on building scalable Minecraft networks, backend systems, and technical 
 
 ## About Me
 
-I have been working in the Minecraft ecosystem for the past 5 years, with practical experience in network architecture, server infrastructure, and custom gameplay systems.
-
-My focus is on designing stable and scalable server environments, developing gameplay concepts, and solving technical challenges in multiplayer systems.
+I have been working in the Minecraft for the past 5 years, with practical experience in network architecture, server infrastructure.
 
 I enjoy working on systems that directly impact player experience — whether through backend architecture, game mechanics, or performance improvements.
 
@@ -24,9 +22,6 @@ Experience building and maintaining Minecraft server environments using:
 - Velocity
 - Paper / Spigot
 - CloudNet
-- LuckPerms
-- PlaceholderAPI
-- WorldEdit / WorldGuard
 
 Practical work includes:
 
@@ -35,28 +30,8 @@ Practical work includes:
 - player routing
 - rank and permission systems
 - global messaging systems
-- MOTD / server presentation
 - service deployment
 - performance optimization
-
----
-
-### Custom Gameplay Systems
-
-Experience designing and implementing Minecraft gameplay systems such as:
-
-- Bedwars concepts
-- matchmaking / queue systems
-- team balancing
-- upgrade systems
-- generator mechanics
-- custom event systems
-- trap mechanics
-- scoreboard integrations
-- lobby systems
-- player progression concepts
-
-Focus on modular, maintainable systems with scalable multiplayer architecture.
 
 ---
 
@@ -69,11 +44,9 @@ Technical experience related to Minecraft hosting and deployment:
 - Linux server administration
 - Git / GitHub
 - Maven / Gradle
-- Plesk
 - DNS management
 - SSL / Let's Encrypt
 - firewall configuration
-- mail server troubleshooting
 
 ---
 
@@ -82,7 +55,6 @@ Technical experience related to Minecraft hosting and deployment:
 Particularly interested in:
 
 - Minecraft backend systems
-- custom minigame development
 - multiplayer architecture
 - network communication systems
 - player data systems
@@ -91,9 +63,6 @@ Particularly interested in:
 
 ---
 
-## Current Focus
-
-Currently focused on expanding practical development experience in Java-based Minecraft systems, with a strong interest in building clean, reliable multiplayer features and backend architecture.
 
 ---
 
