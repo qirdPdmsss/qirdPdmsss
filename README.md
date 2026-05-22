@@ -1,72 +1,65 @@
 # qirdPdms
 
-Minecraft Developer with 5 years of experience in server systems, multiplayer infrastructure, and custom gameplay concepts.
+Developer with 5 years of experience in Minecraft server development, network systems, and multiplayer infrastructure.
 
-Focused on building scalable Minecraft networks, backend systems, and technical solutions for multiplayer environments.
+While most of my experience comes from Minecraft-related projects, I’m also interested in software development outside of that and enjoy learning new technical topics.
 
 ---
 
 ## About Me
 
-I have been working in the Minecraft for the past 5 years, with practical experience in network architecture, server infrastructure.
+I’m 18 years old and currently doing an apprenticeship as an aircraft mechanic in Germany.
 
-I enjoy working on systems that directly impact player experience — whether through backend architecture, game mechanics, or performance improvements.
+Technology has always been a big interest of mine, especially anything related to systems, infrastructure, and development. Over the last 5 years, I’ve spent a lot of time working on Minecraft server projects, building networks, setting up backend systems, and creating technical solutions for multiplayer environments.
+
+Outside of Minecraft, I also work on smaller programming and technical projects, but Minecraft is where I have the most practical experience.
+
+I like solving technical problems and building systems that people actually use.
 
 ---
 
-## Minecraft Experience
+## Experience
 
-### Network Infrastructure
-Experience building and maintaining Minecraft server environments using:
+Worked with:
 
 - Velocity
 - Paper / Spigot
 - CloudNet
-
-Practical work includes:
-
-- proxy network setup
-- server orchestration
-- player routing
-- rank and permission systems
-- global messaging systems
-- service deployment
-- performance optimization
-
----
-
-## Backend & Technical Infrastructure
-
-Technical experience related to Minecraft hosting and deployment:
-
 - Java
 - SQL / MySQL
-- Linux server administration
+- Linux
 - Git / GitHub
 - Maven / Gradle
-- DNS management
-- SSL / Let's Encrypt
-- firewall configuration
+- Firewall / server configuration
 
----
+Things I’ve worked on:
 
-## Areas of Interest
-
-Particularly interested in:
-
-- Minecraft backend systems
-- multiplayer architecture
-- network communication systems
-- player data systems
+- proxy setup
+- network infrastructure
+- server deployment
+- player routing
+- permission systems
+- messaging systems
+- backend setup
 - performance optimization
-- scalable server infrastructure
+- troubleshooting
 
 ---
 
+## Interests
+
+Things I enjoy working with:
+
+- backend systems
+- server infrastructure
+- multiplayer systems
+- software development
+- performance optimization
+- technical problem solving
 
 ---
 
 ## Contact
 
-GitHub: https://github.com/qirdPdmsss 
+GitHub: https://github.com/qirdPdmsss  
 Discord: qirdPdms
