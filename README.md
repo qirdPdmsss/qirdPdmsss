@@ -68,6 +68,5 @@ Particularly interested in:
 
 ## Contact
 
-GitHub: https://github.com/YOURNAME  
-Discord: YOURDISCORD  
-Email: YOURMAIL
+GitHub: https://github.com/qirdPdmsss 
+Discord: qirdPdms
